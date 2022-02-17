@@ -33,6 +33,6 @@ src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg">
 ​    
 
 
-  ![Snake animation](https://github.com/matteusbonotto/matteusbonotto/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/matteusbonotto/blob/output/github-contribution-grid-snake.svg)
 
 </div>
