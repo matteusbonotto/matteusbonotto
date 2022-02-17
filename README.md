@@ -1,5 +1,6 @@
 # <img align="center" alt="Matheus-Js" height="150" width="150" src="https://sdk.bitmoji.com/render/panel/e0c8b93f-c246-46e8-9db2-ec0cb01ec9eb-f38649ec-f37c-493a-a34b-475f6993ba74-v1.png?transparent=1&palette=1">Hi, welcome!
 
+## Social
 <div> 
   <a href="https://www.linkedin.com/in/matheusbonotto" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "mailto:matteusbonotto@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
