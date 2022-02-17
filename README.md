@@ -1,4 +1,4 @@
-# Olá👋 seja bem vindo!
+#👋Olá, seja bem vindo!
 
 <div> 
   <a href="https://www.linkedin.com/in/matheusbonotto" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
@@ -22,9 +22,6 @@
   <img align="center" alt="Matheus-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Matheus-firebase" height="30" width="40" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg">
   <img align="center" alt="PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-  
-  ![Snake animation](https://github.com/matteusbonotto/matteusbonotto/blob/output/github-contribution-grid-snake.svg)
-  
 </div>
 
   
