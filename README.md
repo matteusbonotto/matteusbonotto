@@ -1,6 +1,6 @@
-## Bem vindo! 👋
-
-## eu sou a Matheus Bonotto
+### Olá👋
+## Bem vindo!
+## Sou a Matheus Bonotto
 
 <div align="center">
   <a href="https://github.com/matteusbonotto">
@@ -32,6 +32,5 @@ src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg">
 
 ​    
 
-  ![Snake animation](https://github.com/matteusbonotto/matteusbonotto/blob/output/github-contribution-grid-snake.svg)
 
 </div>
