@@ -8,20 +8,19 @@
 
 ## About
 <div style="display: line_block">
-  Born August 11, 1998, currently 23 years old, I am driven by passion. If I
-love what I do, the chances of success are huge. I don't usually settle
-down. I always look for innovative ideas. I am an excellent co-worker.
-Feedback is always welcome, that's how I learned a lot throughout my
-career to become a better professional and person. Loyalty, Humility,
-Recognition and Respect. From my family I learned the essence of these
-words.
+Welcome! Here's a brief summary about me.
 <br>
   <br>
-With their help, my thoughts matured, plans were written, goals were
-achieved and dreams were realized. I recognize the eort of everyone
-who participated in my evolution. I am concerned about the atmosphere
-of the workplace, as it is usually tense, and I like to keep people in a good
-mood, but without losing focus.
+I'm a highly committed individual with a strong sense of ownership in the projects I participate in. It's essential for me to take a proactive approach to my tasks, and I always strive to actively listen to other team members. I also enjoy both learning and teaching. With clear and concise communication skills, I'm capable of critically analyzing situations and proposing creative solutions.
+<br>
+  <br>
+Currently, I work as a Junior Test Analyst, participating in meetings for defining, planning, and delivering functionalities. My responsibilities include creating and manually executing test scenarios for the developed functionalities, as well as documenting any errors found during the quality assurance process. I have some experience with automation, although I haven't had the opportunity to fully leverage this hard skill yet. However, I greatly enjoy creating and executing scripts. I create and send test evidence reports to clients and analyze incidents reported by clients as potential errors found during pre-production testing of the functionalities. I always strive to suggest improvements in the company's quality processes, considering market best practices, and support other Test Analysts in removing impediments to delivery progress.
+<br>
+  <br>
+Outside of work, I'm passionate about innovative ideas and I don't like to settle. I'm a big fan of retro games from SNES, Megadrive, PlayStation 1, and 2, although I'm more of a PC gamer. I enjoy classic movies like those starring Van Damme, and anime series like Saint Seiya (Knights of the Zodiac), which have helped shape my personality. I believe that music is like wine, it gets better with age, so I guess you can say I have an old spirit, hehe.
+<br>
+  <br>
+I highly value loyalty, humility, recognition, and respect, which I've learned from my family, friends, and relationships. I strive to maintain these values in both my personal and professional life. Feedback is always welcome to me, as it's how I learn and become a better person and professional. I hope to have the opportunity to work alongside you soon.
 </div>
 <br>
 
