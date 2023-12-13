@@ -1,12 +1,13 @@
-# <img align="center" alt="Matheus-Js" height="150" width="150" src="https://sdk.bitmoji.com/render/panel/e0c8b93f-c246-46e8-9db2-ec0cb01ec9eb-f38649ec-f37c-493a-a34b-475f6993ba74-v1.png?transparent=1&palette=1">Hi, welcome!
+<img align="center" alt="Matheus-Js" height="100" width="100" src="https://sdk.bitmoji.com/render/panel/e0c8b93f-c246-46e8-9db2-ec0cb01ec9eb-f38649ec-f37c-493a-a34b-475f6993ba74-v1.png?transparent=1&palette=1">
+Hi, welcome!
 
 ## Social
 <div> 
   <a href="https://www.linkedin.com/in/matheusbonotto" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:matteusbonotto+github@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="mailto:matteusbonotto+github@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/matheusbonotto" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 
-  ## Skills
+## Skills
 <div style="display: inline_block; text-align: center;"><br>
   <img align="center" alt="Matheus-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Matheus-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -30,23 +31,23 @@ I served as a Junior Test Analyst at Americanas S.A. (Jun 2022 - Dec 2023), hand
 
 I possess a robust academic background, including a postgraduate degree in QA Software Testing from Faculdade VINCIT, where I developed competencies in software architecture, requirements engineering, software testing, design thinking, and storytelling. Additionally, I earned my bachelor's degree in Information Technology/Information Systems from Centro Universitário Adventista de São Paulo, gaining knowledge in software development, networks, and preventive maintenance. Furthermore, I completed a technical course in Informatics at Senac Brasil, solidifying skills in software development, networks, preventive maintenance, hardware support, and computer maintenance.
 
-Hard Skills:
+**Hard Skills:**
+- QA Automation, API Testing, Cypress.io
+- JIRA, Scrum, Test Documentation
+- Troubleshooting, Regression Testing, Manual Testing
+- Test Planning, Unit Testing, Integration Testing
+- System Testing, Usability Testing, Analytical Ability
+- Microsoft Office, Agile Methodologies, Responsibility, Strategy, Microsoft Excel
 
-QA Automation, API Testing, Cypress.io
-JIRA, Scrum, Test Documentation
-Troubleshooting, Regression Testing, Manual Testing
-Test Planning, Unit Testing, Integration Testing
-System Testing, Usability Testing, Analytical Ability
-Microsoft Office, Agile Methodologies, Responsibility, Strategy, Microsoft Excel
-Soft Skills:
-Effective Communication
-Teamwork
-Analytical Thinking
-Adaptability
-Results Orientation
-Continuous Learning
+**Soft Skills:**
+- Effective Communication
+- Teamwork
+- Analytical Thinking
+- Adaptability
+- Results Orientation
+- Continuous Learning
+
 I am available for any adjustments or additional clarifications!
-
 </div>
 <div align="center">
   <a href="https://github.com/matteusbonotto">
