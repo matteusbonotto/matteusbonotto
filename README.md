@@ -8,12 +8,11 @@
 
   ## Skills
 <div style="display: inline_block; text-align: center;"><br>
-  <img align="center" alt="Matheus-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Matheus-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Matheus-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Matheus-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Matheus-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Matheus-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Matheus-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Matheus-firebase" height="30" width="40" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg">
   <img align="center" alt="Matheus-Cypress" height="30" width="40" src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_light_cypress.svg">
   <img align="center" alt="Matheus-Robotframework" height="30" width="40" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/0927fc72a1d655c12ec60178df88bef6da3b883d/icons/file_type_robotframework.svg">
 </div>
@@ -23,18 +22,30 @@
 Welcome! Here's a brief summary about me.
 <br>
   <br>
-I'm a highly committed individual with a strong sense of ownership in the projects I participate in. It's essential for me to take a proactive approach to my tasks, and I always strive to actively listen to other team members. I also enjoy both learning and teaching. With clear and concise communication skills, I'm capable of critically analyzing situations and proposing creative solutions.
-<br>
-  <br>
-Currently, I work as a Junior Test Analyst, participating in meetings for defining, planning, and delivering functionalities. My responsibilities include creating and manually executing test scenarios for the developed functionalities, as well as documenting any errors found during the quality assurance process. I have some experience with automation, although I haven't had the opportunity to fully leverage this hard skill yet. However, I greatly enjoy creating and executing scripts. I create and send test evidence reports to clients and analyze incidents reported by clients as potential errors found during pre-production testing of the functionalities. I always strive to suggest improvements in the company's quality processes, considering market best practices, and support other Test Analysts in removing impediments to delivery progress.
-<br>
-  <br>
-Outside of work, I'm passionate about innovative ideas and I don't like to settle. I'm a big fan of retro games from SNES, Megadrive, PlayStation 1, and 2, although I'm more of a PC gamer. I enjoy classic movies like those starring Van Damme, and anime series like Saint Seiya (Knights of the Zodiac), which have helped shape my personality. I believe that music is like wine, it gets better with age, so I guess you can say I have an old spirit, hehe.
-<br>
-  <br>
-I highly value loyalty, humility, recognition, and respect, which I've learned from my family, friends, and relationships. I strive to maintain these values in both my personal and professional life. Feedback is always welcome to me, as it's how I learn and become a better person and professional. I hope to have the opportunity to work alongside you soon.
-</div>
-<br>
+Professional Profile
+I am a highly committed, proactive, and results-oriented Junior Test Analyst. My clear communication and critical analysis skills enable me to provide creative solutions to emerging challenges. Currently, I specialize in functional testing, excelling in the Scrum methodology and Jira tool. I have a penchant for test automation, particularly using Cypress, and actively contribute to the ongoing improvement of the company's quality processes.
+
+Professional Experience
+I served as a Junior Test Analyst at Americanas S.A. (Jun 2022 - Dec 2023), handling remote responsibilities focused on functional and exploratory testing. I stayed abreast of business rules, presenting reports to clients, and actively collaborating in incident analysis. During my internship at SiDi (Aug 2020 - Jun 2022), I gained experience in agile methodology, BDD, and the execution of automated and exploratory tests. In my Development internship at Realiza Software (Aug 2019 - Mar 2020), I provided support and contributed to SAT and ERP development using VB.NET and SQL. At Crespo e Caires Advogados Associados (Jan 2016 - Aug 2019), I worked as a Technical Support Analyst, offering on-site support, conducting preventive maintenance, and efficiently handling client interactions.
+
+I possess a robust academic background, including a postgraduate degree in QA Software Testing from Faculdade VINCIT, where I developed competencies in software architecture, requirements engineering, software testing, design thinking, and storytelling. Additionally, I earned my bachelor's degree in Information Technology/Information Systems from Centro Universitário Adventista de São Paulo, gaining knowledge in software development, networks, and preventive maintenance. Furthermore, I completed a technical course in Informatics at Senac Brasil, solidifying skills in software development, networks, preventive maintenance, hardware support, and computer maintenance.
+
+Hard Skills:
+
+QA Automation, API Testing, Cypress.io
+JIRA, Scrum, Test Documentation
+Troubleshooting, Regression Testing, Manual Testing
+Test Planning, Unit Testing, Integration Testing
+System Testing, Usability Testing, Analytical Ability
+Microsoft Office, Agile Methodologies, Responsibility, Strategy, Microsoft Excel
+Soft Skills:
+Effective Communication
+Teamwork
+Analytical Thinking
+Adaptability
+Results Orientation
+Continuous Learning
+I am available for any adjustments or additional clarifications!
 
 </div>
 <div align="center">
