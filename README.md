@@ -1,8 +1,10 @@
 
 
-<div align="center">  
-  <h1>Olá, eu sou o Matheus Bonotto 👋</h1>
+
+<div align="center">
+  <h1>Matheus Bonotto</h1> 
   <b>Quality Assurance | Campinas-SP, Brasil</b>
+  <br>
   <br/>
   <a href="https://github.com/matteusbonotto" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="https://linkedin.com/in/matheusbonotto" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -12,15 +14,19 @@
 
 ---
 
-<p align="center">
-  🚀 Apaixonado por qualidade, tecnologia e inovação.<br>
-  Atuo como QA em projetos de impacto, focando em automação, testes funcionais e melhoria contínua.<br>
-  Sempre aprendendo, compartilhando e buscando evoluir!
+<details open>
+<summary><b>🚀 Sobre mim</b></summary>
+
+<p align="justify">
+Sou apaixonado por qualidade, tecnologia e inovação. Atuo como QA em projetos de impacto, focando em automação, testes funcionais e melhoria contínua. Gosto de trabalhar em equipe, criar soluções inovadoras e contribuir para a qualidade dos projetos. Busco sempre aprender, compartilhar conhecimento e evoluir.<br><br>
+<b>Meu propósito:</b> Garantir que produtos digitais entreguem valor real para pessoas e negócios, com qualidade, eficiência e experiência.
 </p>
+</details>
 
 ---
 
-## 🛠️ &nbsp;Skills
+<details open>
+<summary><b>🛠️ Skills & Ferramentas</b></summary>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
@@ -31,28 +37,31 @@
   <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/0927fc72a1d655c12ec60178df88bef6da3b883d/icons/file_type_robotframework.svg" alt="Robot Framework" width="40" height="40"/>
 </div>
 
----
-
-## 📌 &nbsp;Projetos em destaque
-- [Simulador BSTQB (CTFL 4.0)](https://github.com/matteusbonotto/simulador-ctfl) ➡️ [Pagina web](https://matteusbonotto.github.io/simulador-ctfl/)
-
----
-
-## ✨ &nbsp;Sobre mim
-
-Sou QA com experiência em testes manuais e automação para grandes empresas e fintechs. Gosto de trabalhar em equipe, criar soluções inovadoras e contribuir para a qualidade dos projetos. Busco sempre aprender e compartilhar conhecimento.
+<ul>
+  <li><b>Testes:</b> Funcional, Exploratório, Regressivo, Automação (Cypress, Robot Framework, Gherkin, BDD, PRISMA)</li>
+  <li><b>Gestão:</b> Jira, Azure DevOps, Dashboards, Planilhas avançadas</li>
+  <li><b>Metodologias:</b> Scrum, Kanban, Shift-left Testing</li>
+  <li><b>Soft Skills:</b> Comunicação, Colaboração, Ownership, Inovação, Aprendizado contínuo</li>
+</ul>
+</details>
 
 ---
 
-## 📈 &nbsp;Estatísticas
+<details open>
+<summary><b>📌 Projetos em destaque</b></summary>
+
+- <b>[Simulador BSTQB (CTFL 4.0)](https://github.com/matteusbonotto/simulador-ctfl)</b> &nbsp;➡️&nbsp; [Página web](https://matteusbonotto.github.io/simulador-ctfl/)
+
+</details>
+
+---
+
+<details>
+<summary><b>📈 Estatísticas</b></summary>
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matteusbonotto&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matteusbonotto&layout=compact&langs_count=7&theme=blue-green"/>
 </div>
 
----
-
-<div align="center">
-  <img src="https://github.com/matteusbonotto/matteusbonotto/blob/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
-</div>
+</details>
