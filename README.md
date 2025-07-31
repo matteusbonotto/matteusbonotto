@@ -1,8 +1,6 @@
 
 
-<div align="center">
-  <img src="https://sdk.bitmoji.com/render/panel/e0c8b93f-c246-46e8-9db2-ec0cb01ec9eb-f38649ec-f37c-493a-a34b-475f6993ba74-v1.png?transparent=1&palette=1" alt="Matheus Bonotto" width="120" height="120" />
-  
+<div align="center">  
   <h1>Olá, eu sou o Matheus Bonotto 👋</h1>
   <b>Quality Assurance | Campinas-SP, Brasil</b>
   <br/>
