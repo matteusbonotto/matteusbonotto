@@ -35,6 +35,7 @@ Sou apaixonado por qualidade, tecnologia e inovação. Atuo como QA em projetos 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cypressio/cypressio-original.svg" alt="Cypress" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/0927fc72a1d655c12ec60178df88bef6da3b883d/icons/file_type_robotframework.svg" alt="Robot Framework" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/0927fc72a1d655c12ec60178df88bef6da3b883d/icons/file_type_playwright.svg" alt="Playwright" width="40" height="40"/>
 </div>
 
 <ul>
